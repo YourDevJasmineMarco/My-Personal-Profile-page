@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<head>
+<title>MY PERSONAL PROFILE</title>
+</head>
+<body>
+
+<h1>JUSTMEN MARCO</h1>
+<h2>ABOUT ME</h2>
+<p> Hi, my name is Justmen Marco an BSIT student from Antipolo Rizal.</p>
+<p>Im the sassy one in our group hihi>,< </p>
+
+
+<h1>My Hobbies</h1>
+<ul type="dot">
+<li>PLAYING GAMES</li>
+<li>Watching Thai Series</li>
+<li>Watching surgery stuff</li>
+
+
+<h1>MY GOALS</h1>
+<ul type="dot">
+<li>Improve my coding skills</li>
+<li>To be a successful it and a nurse</li>
+<li>Finish my study</li>
+</u>
+
+<h2>MY SCHEDULE </h2>
+<table border ="1">
+<tr>
+<th> DAY </th>
+<th> SUBJECT </th>
+</tr>
+
+<tr>
+<td> MONDAY </td>
+
+</tr>
+<tr>
+<td> TUESDAY </td>
+</tr>
+<tr>
+<td> WEDNESDAY </td>
+</tr>
+<tr>
+<td> THURSDAY </td>
+<td> WEB PROG </td>
+<td> CWORLD </td>
+</tr>
+<tr>
+<td> FRIDAY </td>
+<td>  CAPSTONE</td>
+ 
+</tr>
+<tr>
+<td> SATURDAY </td>
+<td> A&H </td>
+<td> DBASE2 </td>
+<td> APP DEV </td>
+</tr>
+</table>
+<h3> Contact</h3>
+
+</body>
+</html>
+<!DOCTYPE html>
+<head>
+<title>MY PERSONAL PROFILE</title>
+
+</head>
+<body>
